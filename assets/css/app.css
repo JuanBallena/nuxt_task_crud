@@ -1,0 +1,7 @@
+:root {
+    --primary: rgb(103, 127, 160);
+    --secondary: rgb(103, 127, 160);
+    --accent: rgba(0, 0, 0, .5);
+    --dark: rgba(0, 0, 0, .8);
+    --info: grey;
+}
